@@ -1,5 +1,7 @@
 # callbag-delay
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/janryWang/callbag-delay.svg)](https://greenkeeper.io/)
+
 > Just delay in callbags chain
 
 
